@@ -3,17 +3,22 @@ export default {
   description: "",
   template: "docs",
   github: {
-    repo: "ejenda/docs",
+    repo: "https://github.com/ejenda/docs",
     branch: "main",
-    releases: "ejenda/ejenda",
+    releases: "https://github.com/ejenda/ejenda",
   },
   layout: {
     aside: true,
   },
   theme: {
+    logo: '/icon.png',
+
+    header: {
+      logo: '/icon.png',
+    },
     colors: {
-      primary: "#00DC82",
-      logo: "#003543",
+      primary: "#ef4444",
+      logo: "#f87171",
     },
   },
 };
