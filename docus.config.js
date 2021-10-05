@@ -12,7 +12,9 @@ export default {
   },
   theme: {
     logo: '/icon.png',
-
+    shortcuts: {
+      'd-header': "p-2 bg-red-100 flex justify-between h-[57.5px] print:hidden"
+    },
     header: {
       logo: '/icon.png',
     },
