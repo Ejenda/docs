@@ -18,7 +18,7 @@ Your items are stored on our servers. We do not look at them.
 
 Yes. Go to our [teachers page](https://ejenda.org/teachers) to get started.
 
-## Is Ejenda safe?"
+## Is Ejenda safe?
 
 Yes. It is engineered to not save any of your identifying data and is open-source so that you can read over the source code. (If you feel like it, no pressure)
 
